@@ -11,7 +11,7 @@
 
 You can reach me at the following links:
 
-- LinkedIn:(https://www.linkedin.com/your-link](https://www.linkedin.com/in/gorgi-tanevski-99086a27a/)
+- LinkedIn:(https://www.linkedin.com/in/gorgi-tanevski-99086a27a/](https://www.linkedin.com/in/gorgi-tanevski-99086a27a/))
 - Email: gorgi.tanevski11@gmail.com
 - Website:(https://www.your-website.com](https://gorgitanevski.netlify.app/)
 <!---
